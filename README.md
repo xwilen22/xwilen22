@@ -1,3 +1,3 @@
 # ⌨🔨⁉⁉
 - [x] hit keyboard with hammer
-- [] fix bug
+- [ ] fix bug
