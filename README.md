@@ -1,4 +1,4 @@
-# I have no fucking clue what I'm doing ⌨🔨⁉⁉
+# I have no fucking clue what I'm doing ⌨🔨
 - [x] hit keyboard with hammer
 - [ ] fix bug
 
