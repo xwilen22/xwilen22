@@ -1,5 +1,5 @@
-# I have no fucking clue what I'm doing ⌨🔨
-- [x] hit keyboard with hammer
+# Programming! ⌨🔨
+- [x] console.log
 - [ ] fix bug
 
 ## Alternative platforms
