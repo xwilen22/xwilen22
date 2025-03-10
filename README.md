@@ -1,5 +1,6 @@
 # Programming! ⌨🔨
 - [x] console.log
+- [x] fika ☕
 - [ ] fix bug
 
 ## Alternative platforms
